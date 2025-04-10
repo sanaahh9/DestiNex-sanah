@@ -1,0 +1,14 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\make-my-trip",
+    "\\make-my-trip\\backend",
+    "\\make-my-trip\\backend\\src",
+    "\\make-my-trip\\frontend\\public",
+    "\\make-my-trip\\frontend\\src",
+    "\\make-my-trip\\frontend\\src\\components",
+    "\\make-my-trip\\frontend\\src\\components\\Booking_page"
+  ],
+  "SelectedNode": "\\make-my-trip\\backend\\src\\server.js",
+  "PreviewInSolutionExplorer": false
+}

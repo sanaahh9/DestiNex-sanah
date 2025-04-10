@@ -1,0 +1,22 @@
+{
+  "ai": {
+    "huggingFace": {
+      "baseUrl": "https://router.huggingface.co/hf-inference",
+      "model": "FacebookAI/xlm-roberta-large",
+      "timeout": 5000,
+      "maxRetries": 3
+    }
+  },
+  "server": {
+    "port": 3000,
+    "corsOrigins": ["http://localhost:5173"],
+    "rateLimit": {
+      "windowMs": 15000,
+      "max": 100
+    }
+  },
+  "logging": {
+    "level": "debug",
+    "file": "logs/app.log"
+  }
+}
