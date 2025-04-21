@@ -209,3 +209,6 @@ FAQ
 # GO TO TOP
 
 <ion-icon name="chevron-up-outline"></ion-icon>
+
+
+ADDED
