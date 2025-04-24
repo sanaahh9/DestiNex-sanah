@@ -13,9 +13,9 @@
 
   <h2 align="center">DestiNex - Travel website</h2>
 
-  Tourly is fully responsive travel website, <br />Responsive for all devices, built using HTML, CSS, and JavaScript.
+  DestiNex is fully responsive travel website, <br />Responsive for all devices, built using HTML, CSS, and JavaScript.
 
-  <a href="https://codewithsadee.github.io/tourly/"><strong>➥ Live Demo</strong></a>
+  <a href="https://destinex.netlify.app/"><strong>➥ Live Demo</strong></a>
 
 </div>
 
@@ -23,7 +23,7 @@
 
 ### Demo Screeshots
 
-![Tourly Desktop Demo](./readme-images/desktop.png "Desktop Demo")
+![DestiNex Desktop Demo](./readme-images/desktop.png "Desktop Demo")
 
 ### Prerequisites
 
@@ -33,23 +33,19 @@ Before you begin, ensure you have met the following requirements:
 
 ### Run Locally
 
-To run **Tourly** locally, run this command on your git bash:
+To run **DestiNex** locally, run this command on your git bash:
 
 Linux and macOS:
 
 ```bash
-sudo git clone https://github.com/codewithsadee/tourly.git
+sudo git clone https://github.com/prathikprajapati/DestiNex.git
 ```
 
 Windows:
 
 ```bash
-git clone https://github.com/codewithsadee/tourly.git
+git clone https://github.com/prathikprajapati/DestiNex.git
 ```
-
-### Contact
-
-If you want to contact with me you can reach me at [Twitter](https://www.twitter.com/codewithsadee).
 
 ### License
 
