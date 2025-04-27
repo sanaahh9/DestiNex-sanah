@@ -435,6 +435,7 @@ body { background: var(--white); }
   padding: 10px 15px;
   font-size: var(--fs-5);
   border-radius: 50px;
+  color: black;
 }
 
 .tour-search-form .input-field::placeholder { color: var(--spanish-gray); }
@@ -1345,4 +1346,3 @@ address {
 }
 
 }
-
