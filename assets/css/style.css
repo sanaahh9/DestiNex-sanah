@@ -240,7 +240,7 @@ body { background: var(--white); }
   align-items: center;
 }
 
-.helpline-box .wrapper { display: none; }
+.helpline-box .wrapper { display: block; }
 
 .helpline-box .icon-box {
   background: var(--bright-navy-blue);
@@ -253,7 +253,13 @@ body { background: var(--white); }
 
 .header-top .logo { margin-inline: auto; }
 
-.header-top .logo img { max-width: 100px; }
+.header-top .logo img {
+  max-width: 100px;
+  max-height: 60px;
+  width: auto;
+  height: auto;
+  object-fit: contain;
+}
 
 .header-btn-group {
   justify-self: flex-end;
