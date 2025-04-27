@@ -1302,3 +1302,47 @@ address {
   .container { max-width: 1180px; }
 
 }
+@media (max-width: 768px) {
+  .header-top .container {
+    display: flex;
+    flex-wrap: nowrap;
+    justify-content: space-between;
+    align-items: center;
+    gap: -50px;
+  }
+
+  .header-top .logo {
+    margin-inline: 0;
+    flex: 1 1 auto;
+    text-align: center;
+  }
+  
+  .helpline-box {
+    flex: 1 1 auto;
+    min-width: 180px;
+    max-width: 300px;
+    font-size: small;
+  }
+
+  .header-btn-group {
+    flex: 1 1 auto;
+    justify-content: flex-end;
+  }
+
+  .header-top {
+    padding-block: 10px;
+  }
+
+  .helpline-box .icon-box {
+    padding: 14px;
+    width: 45px;
+  }
+  *, *::before, *::after {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    color: white;
+}
+
+}
+
